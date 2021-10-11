@@ -4,4 +4,5 @@ p{
     font-family: SST, helvetica, arial, sans-serif;
     font-weight: 500;
     cursor: pointer;
+    padding: 0 20px 0 5px;
 }

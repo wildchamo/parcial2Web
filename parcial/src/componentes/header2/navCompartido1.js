@@ -5,8 +5,12 @@ import Boton1 from "./boton1";
 const NavCompartido1= function(){
     return(
         <div className="navCompartido1">         
-            <Boton1 title={{title:"adios"}}/>
-            <Boton1 title={{title:"hola"}}/>
+            <Boton1 title={{title:"Juegos"}}/>
+            <Boton1 title={{title:"Hardware"}}/>
+            <Boton1 title={{title:"Servicios"}}/>
+            <Boton1 title={{title:"Noticias"}}/>
+            <Boton1 title={{title:"Tienda"}}/>
+            <Boton1 title={{title:"Asistencia"}}/>
         </div>
         )
 }
