@@ -1,6 +1,6 @@
 import React from "react";
 import '../estilos/header.css';
-import logo from "../images/sony_logo.png";
+import logo from "../images/sony_logo.svg";
 
 const Header= function(){
     return(

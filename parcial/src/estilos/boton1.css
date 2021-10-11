@@ -1,8 +1,18 @@
-p{
+.boton1{
+    display:flex;
+    padding: 0 20px 0 5px;
+}
+.boton1 img{
+    padding-top: 13px;
+    padding-left: 5px;
+width:8.4px;
+height:8px;
+}
+.boton1 p{
     color: #757575;
     font-size: 11.3px;
     font-family: SST, helvetica, arial, sans-serif;
     font-weight: 500;
     cursor: pointer;
-    padding: 0 20px 0 5px;
+   
 }
