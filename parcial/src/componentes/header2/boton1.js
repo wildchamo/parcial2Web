@@ -6,7 +6,7 @@ const Boton1= function(props){
     return (
         <div>
             <p>{title}</p>
-            <img src=""></img>
+            <img src="../../images/rayita.png"></img>
         </div>
 
     )
