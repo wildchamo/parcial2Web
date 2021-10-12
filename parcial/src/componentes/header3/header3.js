@@ -12,3 +12,4 @@ const Header3= function(){
         )
 }
 
+export default Header3;
