@@ -1,11 +1,12 @@
 import React from "react";
 import '../../estilos/logoHeader3.css';
-
+import logoT from "../../images/playSStore.png"
 
 const logoHeader3= function(){
     return(
-        <div className="logoHeader3"> 
-        </div>
+         
+        <img className="logoHeader3" src={logoT}/>
+        
         )
 }
 
