@@ -1,3 +1,5 @@
-.NavHeader3{
-    display:flex;
+.header3{
+    display: flex;
+    height:64px;
+    width:100%;
 }
