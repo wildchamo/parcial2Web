@@ -6,7 +6,7 @@ import IconTexto from './iconTexto.js';
 const Section1= function(){
     return (
         <div className="section1Footer">
-            <img src={logo}/>
+            <img className="logo" src={logo}/>
             <IconTexto/>
         </div>
     )

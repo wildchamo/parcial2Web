@@ -2,4 +2,10 @@ footer{
     height: 800px;
     background-color: #00439C;
     color:white;
+    padding: 64px 80px 64px 170px;
+}
+footer .logo{
+    width: 64px;
+    height: 50px;
+    padding-right: 60px;
 }
