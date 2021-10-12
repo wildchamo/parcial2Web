@@ -1,7 +1,9 @@
 .botonU{
     color: white;
     font-size:14px;
-    background-color:black;
+    width:103px;
+    height:22px;
+    background-color:#363636;
     border-radius:30px;
     border:none;
 }
