@@ -1,12 +1,12 @@
 import React from "react";
 import '../../estilos/navCompartido1.css';
 import Boton1 from "./boton1";
-import logoPlay from "./logoPlay";
+import LogoPlay from "./logoPlay";
 
 const NavCompartido1= function(){
     return(
         <div className="navCompartido1"> 
-            <logoPlay/>        
+            <LogoPlay/>        
             <Boton1 title={{title:"Juegos"}}/>
             <Boton1 title={{title:"Hardware"}}/>
             <Boton1 title={{title:"Servicios"}}/>
