@@ -8,7 +8,7 @@ import logo1 from "../../images/logocover1.webp";
     return(
         <section className="section1">
        <Cover data={{logo:logo1 ,cover: cover1}}/>
-       <Info data2={{title:"Bienvenido a PlayStation Plus",info:"Potencia tu experiencia PlayStation con multijugador en línea, juegos mensuales, descuentos exclusivos y mucho más.", boton: "Más información" }}/>
+       <Info data2={{title:"FIFA 22",info:"Powered by Football™", boton: "Disponible ahora" }}/>
         </section>
         )
 }
