@@ -1,4 +1,6 @@
 import React from 'react';
+import '../../estilos/puntoF.css';
+
 
 const PuntoF= function(props){
     const {title}=props.title;
