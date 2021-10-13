@@ -9,7 +9,9 @@ const Cover = function(props){
     <div className="cover">
     
     <img className="logoC" src={logo}/>
-    <img className="coverC" src={cover}/>
+    <img className="coverC" src={cover}>
+
+    </img>
     
     </div>
 
