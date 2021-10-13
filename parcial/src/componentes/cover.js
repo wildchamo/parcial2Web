@@ -8,8 +8,8 @@ const Cover = function(props){
     return (
     <div className="cover">
     
-    <img className="logo" src={logo}/>
-    <img src={cover}/>
+    <img className="logoC" src={logo}/>
+    <img className="coverC" src={cover}/>
     
     </div>
 
