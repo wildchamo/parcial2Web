@@ -14,8 +14,6 @@ function App() {
       <Header2/>
       <Header3/>
       <Section1/>
-
-
       <Section6/>
       <Footer/>
 
