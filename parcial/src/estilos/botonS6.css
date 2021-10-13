@@ -1,8 +1,12 @@
 .botonS6{
     color: #0068BD;
     font-size: 14px;
+    background-color:transparent;
+    border:none;
+    border-radius: 30px;
+    cursor:pointer;
 }
 .botonS6 :hover{
-    border-radius: 30;
     background-color:#d2d4d9;
+    
 }
