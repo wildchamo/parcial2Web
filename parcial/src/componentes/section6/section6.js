@@ -2,6 +2,8 @@ import React from "react";
 import Titulo2 from "../titulo2.js";
  import Cards from "./Cards.js";
  import BotonS6 from "./BotonS6.js";
+ import '../../estilos/section6.css';
+
 
 const Section6= function(){
     return(
