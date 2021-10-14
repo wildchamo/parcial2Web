@@ -10,10 +10,10 @@ import '../estilos/slider.css';
 const Slider1= function(){
     return(
        <div className="slider">
-           <ElementoSlider data={{src:slider1m,info:"eFootball™ 2022"}}/>
-            <ElementoSlider data={{src:slider2,info:"Hell let loose"}}/>
-           <ElementoSlider data={{src:slider3,info:"Enlisted"}}/>
-           <ElementoSlider data={{src:slider4,info:"FIFA 22 para PS4™"}}/>
+           <ElementoSlider data={{src:slider1m,info:"eFootball™ 2022",precio:"Gratuito"}}/>
+            <ElementoSlider data={{src:slider2,info:"Hell let loose",precio:"US$39.99"}}/>
+           <ElementoSlider data={{src:slider3,info:"Enlisted",precio:"Gratuito"}}/>
+           <ElementoSlider data={{src:slider4,info:"FIFA 22 para PS4™",precio:"US$59.99"}}/>
        </div>
         )
 }
