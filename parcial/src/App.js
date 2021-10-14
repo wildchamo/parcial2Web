@@ -3,6 +3,7 @@ import Header from './componentes/header';
 import Header2 from './componentes/header2/header2';
 import Header3 from './componentes/header3/header3';
 import Section1 from './componentes/section1/section1.js';
+
 import Section3 from './componentes/section3/section3.js';
 
 import Section5 from './componentes/section5/section5.js';

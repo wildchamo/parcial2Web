@@ -1,10 +1,10 @@
 import React from "react";
 
 const ElementoSlider= function(props){
-    const {source,info}=props.data;
+    const {src,info}=props.data;
     return(
        <div>
-        <img src={source}/>
+        <img src={src}/>
         <p>{info}</p>
        </div>
         )
