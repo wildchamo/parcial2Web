@@ -1,5 +1,5 @@
 import React from "react";
-
+import '../../estilos/imagenS2.css';
  const imagenS2= function(props){
     const {source}=props.source;
     return(
